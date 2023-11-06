@@ -1,0 +1,121 @@
+/* Your styles here */
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.9;
+    padding: 1px;
+    background-color: #e9edee;
+}
+
+
+header {
+    background-color: #222f3f;
+    text-align: start;
+}
+
+header div img {
+    width: 120px;
+    padding: 1em;
+}
+
+header div .header2 {
+    padding: 0.6rem;
+    background-color: #364757;
+}
+
+header div ul {
+    list-style-type: none;
+    margin: 0;
+    
+  }
+
+header div li{
+    display: inline;
+    padding: 1rem;
+}
+
+header div li a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+/* Main*/
+
+
+main div {
+    margin: 1.5rem;
+}
+
+.section1 {
+    text-align: center;
+    background-color: #f56600;
+    color: whitesmoke;
+}
+
+.section2 {
+    background-image: url(/AmazonPage/assets/images/bg-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem;
+    text-align: center;
+    color: aliceblue;
+}
+
+main div h1{
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+
+main div li{
+    display: inline;
+    padding: 1rem;
+}
+
+.libig {
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.shop {
+    font-weight: 600;
+    color: blue;
+
+}
+
+.section3 {
+    background-color: white;
+    display: block;
+    padding: 2rem;
+}
+
+.section4 {
+    
+    display: flex;
+    flex-basis: 25%;
+    justify-content: center;
+    align-items: center;
+    padding: 0.8rem;
+}
+
+.section5 {
+    
+    padding: 1rem;
+    text-align: center;
+}
+
+
+.section6 {
+    text-align: center;
+    background-color: #364759;
+    color: whitesmoke;
+}
+
+footer {
+    background-color: #222f3f;
+    text-align:center;
+}
+
+footer div img {
+    width: 120px;
+    padding: 1em;
+}
+
